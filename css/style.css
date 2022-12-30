@@ -1,0 +1,35 @@
+html, body{
+    font-size: 18px;
+}
+
+body{
+    background-color: rgb(25, 96, 96);
+}
+
+a{
+    color: black;
+}
+
+a:hover{
+    color: rgb(255, 37, 37);
+}
+
+h2{
+    color: white;
+}
+
+.nav .nav-item .nav-link {
+    margin: 0 10px;
+    border: 1px solid #BFBFBF;
+    background-color: white;
+    box-shadow: 0 0 5px #aaaaaa;
+}
+
+.nav .nav-item .nav-link.active,.nav .nav-pills .show > .nav-link{
+    background-color: rgb(255, 37, 37);
+    color: white;
+}
+
+.outputDiv {
+    box-shadow: 0 0 5px #aaaaaa;
+}
