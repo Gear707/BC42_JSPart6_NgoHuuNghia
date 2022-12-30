@@ -11,7 +11,7 @@ a{
 }
 
 a:hover{
-    color: rgb(255, 37, 37);
+    color: #ff7125;
 }
 
 h2{
@@ -26,7 +26,7 @@ h2{
 }
 
 .nav .nav-item .nav-link.active,.nav .nav-pills .show > .nav-link{
-    background-color: rgb(255, 37, 37);
+    background-color: #ff7125;
     color: white;
 }
 

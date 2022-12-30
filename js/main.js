@@ -2,6 +2,7 @@ function getEle(ele) {
     return document.getElementById(ele);
 }
 
+
 /* 1. Tìm số chẵn/lẻ nhỏ hơn 100 */
 getEle('btnOddEven').onclick = function(){
     // input: tập hợp các số nhỏ hơn 100
